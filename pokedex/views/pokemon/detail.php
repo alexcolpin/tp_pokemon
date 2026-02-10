@@ -8,4 +8,8 @@
     <?php endforeach; ?>
 </ul>
 
+<p>Shiny :</p>
+<h2><?= $pokemon['name']['fr'] ?></h2>
+<img src="<?= $pokemon['sprites']['shiny'] ?>" width="150">
+<br/>
 <a href="index.php?action=pokemon">Retour</a>

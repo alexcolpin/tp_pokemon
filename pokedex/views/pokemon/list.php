@@ -1,9 +1,9 @@
 <h2>Liste des Pokémon</h2>
 
 <?php foreach ($pokemons as $p): ?>
-    <div>
-        <h3><?= $p['name']['fr'] ?></h3>
-        <img src="<?= $p['sprites']['regular'] ?>" width="100">
+    <div align="center" style="font-size: 50px;">
+        <h3 ><?= $p['name']['fr'] ?></h3>
+        <img src="<?= $p['sprites']['regular'] ?>" width="500">
         <p>
             <?php foreach ($p['types'] as $type): ?>
                 <?= $type['name'] ?>

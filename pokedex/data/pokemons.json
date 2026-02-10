@@ -3322,5 +3322,25 @@
             "shiny": "https:raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/151/shiny.png",
             "gmax": null
         }
+    },
+    {
+        "pokedex_id": 152,
+        "generation": 1,
+        "name": {
+            "fr": "kirk",
+            "en": "kirk",
+            "jp": "ミュウ"
+        },
+        "types": [
+            {
+                "name": "amen",
+                "image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndlcGR5Yjg5a3RyZDV0d3F5ZmVnZXE2bnBpeWVrb25ubzZtaGsyZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MJ7uiH2B3CDzPHYLVg/giphy.gif"
+            }
+        ],
+        "sprites": {
+            "regular": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndlcGR5Yjg5a3RyZDV0d3F5ZmVnZXE2bnBpeWVrb25ubzZtaGsyZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MJ7uiH2B3CDzPHYLVg/giphy.gif",
+            "shiny": "https://media.tenor.com/6oXSw25B2-IAAAAM/charlie-kirk-bart-simpson.gif",
+            "gmax": null
+        }
     }
 ]
